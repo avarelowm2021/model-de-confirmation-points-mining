@@ -1,0 +1,208 @@
+Porte ouverte:à définir=avarelowm ou wallet + clé de hachage CRC64	
+cours au18/11/2021:
+143,981,734.33201104
+of total 143,983,184.33201104
+$54,783,178.15
+of total $54,783,729.85
+      														
+						Moyenne: 160 points + 250 points spéciaux /// 1 point= 0.01 /v/O:O\v\ 1 scannage = 1 point  
+I;http://1qr.fr/3koH0;1;0:18... bloc 1					1
+I;http://1qr.fr/3koH0;1;0:20						1
+I;http://1qr.fr/3koH0;1;0:21						1
+I;http://1qr.fr/3koH0;1;0:23						1
+I;http://1qr.fr/3koH0;1;0:24						1
+I;http://1qr.fr/3koH0;1;0:25						1
+I;http://1qr.fr/3koH0;1;0:27						1
+I;http://1qr.fr/3koH0;1;0:28						1
+I;http://1qr.fr/3koH0;1;0:30						1
+I;http://1qr.fr/3koH0;1;0:31						1					
+I;http://1qr.fr/3iQP0;1;0:34-35 porte(s)L1				1											
+...///////////	environ	0:43___	bloc 2					0.5
+I;http://1qr.fr/3koH0;1;0:51						1
+I;http://1qr.fr/3koH0;1;0:53						1
+I;http://1qr.fr/3koH0;1;0:54						1
+I;http://1qr.fr/3koH0;1;0:55						1	
+I;http://1qr.fr/3koH0;1;0:57						1
+I;http://1qr.fr/3koH0;1;0:58						1
+I;http://1qr.fr/3koH0;1;1:00						1
+I;http://1qr.fr/3koH0;1;1:01						1
+I;http://1qr.fr/3koH0;1;1:02						1
+I;http://1qr.fr/3koH0;1;1:03						1
+I;http://1qr.fr/3koH0;1;1:05						1
+I;http://1qr.fr/3koH0;1;1:06						1
+I;http://1qr.fr/3koH0;1;1:08						1
+I;http://1qr.fr/3koH0;1;1:09						1
+I;http://1qr.fr/3iQP0;1;1:10-11 porte(s)L2				0.5		
+I;0,4 /v/O:O\v\ attention !pause 1fois accordé;1;1:21-22		1=+0.4/vo:
+...///////////	environ	1:19___	bloc 3					0.5
+I;https://eqrcode.co/a/6Ne0N6;1;1:24					6
+I;0,4 /v/O:O\v\;1;							1=+0.4/vo:
+I;http://1qr.fr/3koH0;1;1:31						1
+I;http://1qr.fr/3koH0;1;1:33						1
+I;http://1qr.fr/3koH0;1;1:34						1
+I;http://1qr.fr/3koH0;1;1:36						1
+I;http://1qr.fr/3koH0;1;1:37						1
+I;http://1qr.fr/3koH0;1;1:38						1
+I;http://1qr.fr/3koH0;1;1:40						1
+I;http://1qr.fr/3koH0;1;1:41						1
+I;http://1qr.fr/3koH0;1;1:42						1
+I;http://1qr.fr/3koH0;1;1:44						1
+I;http://1qr.fr/3koH0;1;1:45						1
+I;http://1qr.fr/3iQP0;1;1:47-48 porte(s)L3				0.5
+I;0,4 /v/O:O\v\ attention !pause 1fois accordé;1;1:21-22		1=+0.4/vo:
+...///////////	environ	1:57___	bloc 4					0.5
+I;http://1qr.fr/39iV0;1;1:59						11
+I;http://1qr.fr/3koH0;1;2:05						1
+I;http://1qr.fr/3koH0;1;2:06						1
+I;http://1qr.fr/3koH0;1;2:08						1
+I;http://1qr.fr/3koH0;1;2:09						1
+I;http://1qr.fr/3koH0;1;2:10						1
+I;http://1qr.fr/3koH0;1;2:11						1
+I;http://1qr.fr/3koH0;1;2:12						1
+I;http://1qr.fr/3koH0;1;2:13						1 
+/v/O:O\v\ Attention !! Qr code de surveillance =valeur=0		0 
+I;http://1qr.fr/3koH0;1;2:14						1
+I;http://1qr.fr/3koH0;1;2:16						1
+I;http://1qr.fr/3koH0;1;2:17						1
+I;http://1qr.fr/3koH0;1;2:18						1
+I;http://1qr.fr/3iQP0;1;2:22-26 porte(s)L4				0.5
+I;https://eqrcode.co/a/WInFlp+1/v/o:;1;/2:22/2:23...			+1/v/o:o\v\+
+I;0,4 /v/O:O\v\ attention !pause 1fois accordé;1;2:21-40		1=0.4/vo:
+...///////////	environ	2:33___	bloc 5					0.5
+I;https://eqrcode.co/a/DKbRK9+0,77;1;2:37 				9
+I;http://1qr.fr/3koH0;1;2:43						1
+I;http://1qr.fr/3koH0;1;2:44						1
+I;http://1qr.fr/3koH0;1;2:45						1	
+I;http://1qr.fr/3koH0;1;2:46						1						
+I;http://1qr.fr/3koH0;1;2:47						1	
+I;http://1qr.fr/3koH0;1;2:48						1
+I;http://1qr.fr/3koH0;1;2:50						1
+I;http://1qr.fr/3koH0;1;2:53						1
+I;http://1qr.fr/3koH0;1;2:55						1
+I;http://1qr.fr/3koH0;1;2:56						1
+I;http://1qr.fr/3koH0;1;2:58						1
+I;http://1qr.fr/3koH0;1;2:59						1
+I;http://1qr.fr/3iQP0;1;3:00-01-02 porte(s)L5  				0.5
+I; /v/O:O\v\ Attention !! Qr code de surveillance =valeur=0
+I;https://eqrcode.co/a/DKbRK9;1;3:22-23					9
+I;0,4 /v/O:O\v\ attention !pause 1fois accordé;1;1:21-22
+...///////////	environ	3:16___	bloc 6					0.5
+I;http://1qr.fr/3koH0;1;3:29						1
+I;http://1qr.fr/3koH0;1;3:30						1
+I;http://1qr.fr/3koH0;1;3:32						1
+I;http://1qr.fr/3koH0;1;3:33						1
+I;http://1qr.fr/3koH0;1;3:34						1
+I;http://1qr.fr/3koH0;1;3:36						1
+I;http://1qr.fr/3iQP0;1;3:39-40-42 porte(s)L666				0.6
+I;https://eqrcode.co/a/DKbRK9;1;3:48 					10
+I;0,4 /v/O:O\v\ attention !pause 1fois accordé;1;3:46-47-48		+1/v/o:o\v\+
+...///////////	environ	3:16___	bloc 7					1,5
+I;http://1qr.fr/3koH0;1;3:57						1
+I;http://1qr.fr/3koH0;1;3:58						1
+I;http://1qr.fr/3koH0;1;4:00						1
+I;http://1qr.fr/3koH0;1;4:01						1
+I;http://1qr.fr/3koH0;1;4:02						1
+I;http://1qr.fr/3koH0;1;4:03						1
+I;http://1qr.fr/3koH0;1;4:04						1
+I;http://1qr.fr/3koH0;1;4:05						1
+I;http://1qr.fr/3koH0;1;4:07						1
+I;http://1qr.fr/3koH0;1;4:08						1
+I;http://1qr.fr/3koH0;1;4:09						1
+I;http://1qr.fr/3koH0;1;4:11						1
+I;I;0,4 /v/O:O\v\ Attention !! Qr code de surveillance =valeur= 0	+1/v/o:o\v\+
+Message: Ne pas me scanner !!						
+I;http://1qr.fr/3iQP0;1;4:12... porte(s)L7				1.5
+1 Pause 1fois accordé;1;4:12-13-14					
+Scannez 1 des Qr-codes( Si vous avez scanné				
+ les 2 Qr-codes, vous risquez d'être Pénalisé !! );1;						
+I;https://eqrcode.co/a/DKbRK9;1;4:13-14-16				9
+I;http://1qr.fr/3nyV0 4:27(0,17);1;					12
+I;0,17 /v/O:O\v\ attention !pause 1fois accordé;1;4:25-28		1.7
+///////////////////////////////////bloc 8..				1.3
+I;http://1qr.fr/3koH0;1;4:32 						1
+I;http://1qr.fr/3koH0;1;4:40						1
+I;http://1qr.fr/3koH0;1;4:41						1
+I;http://1qr.fr/3koH0;1;4:42						1
+I;http://1qr.fr/3koH0;1;4:44						1
+I;http://1qr.fr/3koH0;1;4:42						1
+I;http://1qr.fr/3nyV0;1;4:46 (bonus) !					14
+I;http://1qr.fr/3koH0;1;4:48						1
+I;http://1qr.fr/3koH0;1;4:49						1
+I;http://1qr.fr/3koH0;1;4:51						1
+I;http://1qr.fr/3iQP0++;4:55; porte(s)L8				1
+I;https://eqrcode.co/a/WInFlp+1/v/o: 4:56-57...			
+I; 0.4/v/O:O\v\ attention !pause 1fois accordé;1;4:56-57...		+1/v/o:o\v\+
+I;https://eqrcode.co/a/DKbRK9;1;5:05					9
+...///////////	environ	5:05    ___bloc 9				1.5
+I;http://1qr.fr/3koH0;1;5:11						1
+I;http://1qr.fr/3koH0;1;5:12						1
+I;http://1qr.fr/3koH0;1;5:14						1
+I;http://1qr.fr/3koH0;1;5:15						1
+I;http://1qr.fr/3koH0;1;5:16						1
+I;http://1qr.fr/3koH0;1;5:18						1
+I;http://1qr.fr/3koH0;1;5:19						1
+I;http://1qr.fr/3koH0;1;5:21						1
+I;http://1qr.fr/3koH0;1;5:22						1
+I;http://1qr.fr/3koH0;1;5:23						1
+I;http://1qr.fr/3koH0;1;5:25						1
+I;http://1qr.fr/3koH0;1;5:26						1
+I;http://1qr.fr/3iQP0;1 5:30  ;porte(s)L9				1
+I; /v/O:O\v\ Attention !! Qr code de surveillance =valeur=0		25
+Message: Ne pas me scanner !!						1
+1 Pause 1fois accordé;1;5:44-45-48;1;
+...///////////	environ	5:42    ___bloc 10
+I;http://1qr.fr/3koH0;1;5:51						1
+I;http://1qr.fr/3koH0;1;5:52						1
+I;http://1qr.fr/3koH0;1;5:53						1							
+I;http://1qr.fr/3koH0;1;5:55						1
+I;http://1qr.fr/3koH0;1;5:56						1
+I;http://1qr.fr/3koH0;1;5:57						1
+I;http://1qr.fr/3koH0;1;5:59						1
+I;http://1qr.fr/3koH0;1;6:00						1
+I;http://1qr.fr/3koH0;1;6:02						1
+I;http://1qr.fr/3koH0;1;6:03						1
+I;http://1qr.fr/3iQP0;  6:06 porte...					2
+I;http://1qr.fr/3iQP0;1 6:07 / ;porte(s)L10				1.5
+////////////////////////6:17______bloc 11...				2
+I;http://1qr.fr/3koH0;1;6:18						1
+I;http://1qr.fr/3koH0;1;6:19						1
+I;http://1qr.fr/3koH0;1;6:21						1
+I;http://1qr.fr/3koH0;1;6:22						1
+I;http://1qr.fr/3koH0;1;6:24						1
+I;http://1qr.fr/3koH0;1;6:25						1
+I;http://1qr.fr/3koH0;1;6:26						1
+I;http://1qr.fr/3koH0;1;6:28						1
+I;http://1qr.fr/3koH0;1;6:29						1
+I;http://1qr.fr/3koH0;1;6:30						1
+I;http://1qr.fr/3koH0;1;6:32						1
+I;http://1qr.fr/3koH0;1;6:33						1
+I;http://1qr.fr/3koH0;1;6:34						1
+////////////////////////////////____/////L11				2
+couloire couloire///;1 6:36-37  /;bloc 12				2
+////////////////////////////////
+I;http://1qr.fr/3koH0;1;6:42						1
+I;http://1qr.fr/3koH0;1;6:43						1
+I;http://1qr.fr/3koH0;1;6:44						1
+I;http://1qr.fr/3koH0;1;6:46						1
+I;http://1qr.fr/3koH0;1;6:47						1
+I;http://1qr.fr/3koH0;1;6:48						1
+//la porte se ferme /fin6:56ferme...:O\v\L12				10
+scannage de la wallet ou du avarelowm					1
+I;0.4 /v/O:O\v\ Attention !! Qr code de surveillance =valeur=0		+1/v/o:o\v\+
+Message: Ne pas me scanner !! 
+scannage de la wallet ou du avarelowm
+1 Pause 1fois accordé... 3 tokens max...
+
+I;https://eqrcode.co/a/WInFlp;1;6:56-57-59..				5
+I;https://eqrcode.co/a/WInFlp;1;					5
+.... félicitation !!!/ fin de parti L12..
+
+
+
+Rapport surveillance 001.
+points spéciaux :
+
+
+
+
+
